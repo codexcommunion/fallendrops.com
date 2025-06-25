@@ -4,84 +4,60 @@
         <title>FallenDrops.com Blog</title>
         <link>https://fallendrops.com/blog</link>
         <description>FallenDrops.com Blog</description>
-        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jun 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Welcome]]></title>
-            <link>https://fallendrops.com/blog/welcome</link>
-            <guid>https://fallendrops.com/blog/welcome</guid>
-            <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[Docusaurus blogging features are powered by the blog plugin.]]></description>
-            <content:encoded><![CDATA[<p><a href="https://docusaurus.io/docs/blog" target="_blank" rel="noopener noreferrer">Docusaurus blogging features</a> are powered by the <a href="https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog" target="_blank" rel="noopener noreferrer">blog plugin</a>.</p>
-<p>Here are a few tips you might find useful.</p>
-<p>Simply add Markdown files (or folders) to the <code>blog</code> directory.</p>
-<p>Regular blog authors can be added to <code>authors.yml</code>.</p>
-<p>The blog post date can be extracted from filenames, such as:</p>
-<ul>
-<li><code>2019-05-30-welcome.md</code></li>
-<li><code>2019-05-30-welcome/index.md</code></li>
-</ul>
-<p>A blog post folder can be convenient to co-locate blog post images:</p>
-<p><img decoding="async" loading="lazy" alt="Docusaurus Plushie" src="https://fallendrops.com/assets/images/docusaurus-plushie-banner-a60f7593abca1e3eef26a9afa244e4fb.jpeg" width="1500" height="500" class="img_ev3q"></p>
-<p>The blog supports tags as well!</p>
-<p><strong>And if you don't want a blog</strong>: just delete this directory, and use <code>blog: false</code> in your Docusaurus config.</p>]]></content:encoded>
-            <category>Facebook</category>
-            <category>Hello</category>
-            <category>Docusaurus</category>
-        </item>
-        <item>
-            <title><![CDATA[MDX Blog Post]]></title>
-            <link>https://fallendrops.com/blog/mdx-blog-post</link>
-            <guid>https://fallendrops.com/blog/mdx-blog-post</guid>
-            <pubDate>Sun, 01 Aug 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[Blog posts support Docusaurus Markdown features, such as MDX.]]></description>
-            <content:encoded><![CDATA[<p>Blog posts support <a href="https://docusaurus.io/docs/markdown-features" target="_blank" rel="noopener noreferrer">Docusaurus Markdown features</a>, such as <a href="https://mdxjs.com/" target="_blank" rel="noopener noreferrer">MDX</a>.</p>
-<div class="theme-admonition theme-admonition-tip admonition_xJq3 alert alert--success"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M6.5 0C3.48 0 1 2.19 1 5c0 .92.55 2.25 1 3 1.34 2.25 1.78 2.78 2 4v1h5v-1c.22-1.22.66-1.75 2-4 .45-.75 1-2.08 1-3 0-2.81-2.48-5-5.5-5zm3.64 7.48c-.25.44-.47.8-.67 1.11-.86 1.41-1.25 2.06-1.45 3.23-.02.05-.02.11-.02.17H5c0-.06 0-.13-.02-.17-.2-1.17-.59-1.83-1.45-3.23-.2-.31-.42-.67-.67-1.11C2.44 6.78 2 5.65 2 5c0-2.2 2.02-4 4.5-4 1.22 0 2.36.42 3.22 1.19C10.55 2.94 11 3.94 11 5c0 .66-.44 1.78-.86 2.48zM4 14h5c-.23 1.14-1.3 2-2.5 2s-2.27-.86-2.5-2z"></path></svg></span>tip</div><div class="admonitionContent_BuS1"><p>Use the power of React to create interactive blog posts.</p></div></div>
-<!-- -->
-<p>For example, use JSX to create an interactive button:</p>
-<div class="language-js codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#403f53;--prism-background-color:#FBFBFB"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-js codeBlock_bY9V thin-scrollbar" style="color:#403f53;background-color:#FBFBFB"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#403f53"><span class="token operator" style="color:rgb(12, 150, 155)">&lt;</span><span class="token plain">button onClick</span><span class="token operator" style="color:rgb(12, 150, 155)">=</span><span class="token punctuation" style="color:rgb(153, 76, 195)">{</span><span class="token punctuation" style="color:rgb(153, 76, 195)">(</span><span class="token punctuation" style="color:rgb(153, 76, 195)">)</span><span class="token plain"> </span><span class="token arrow operator" style="color:rgb(12, 150, 155)">=&gt;</span><span class="token plain"> </span><span class="token function" style="color:rgb(153, 76, 195);font-style:italic">alert</span><span class="token punctuation" style="color:rgb(153, 76, 195)">(</span><span class="token string" style="color:rgb(72, 118, 214)">'button clicked!'</span><span class="token punctuation" style="color:rgb(153, 76, 195)">)</span><span class="token punctuation" style="color:rgb(153, 76, 195)">}</span><span class="token operator" style="color:rgb(12, 150, 155)">&gt;</span><span class="token maybe-class-name">Click</span><span class="token plain"> me</span><span class="token operator" style="color:rgb(12, 150, 155)">!</span><span class="token operator" style="color:rgb(12, 150, 155)">&lt;</span><span class="token operator" style="color:rgb(12, 150, 155)">/</span><span class="token plain">button</span><span class="token operator" style="color:rgb(12, 150, 155)">&gt;</span><br></span></code></pre></div></div>
-<button>Click me!</button>]]></content:encoded>
-            <category>Docusaurus</category>
-        </item>
-        <item>
-            <title><![CDATA[Long Blog Post]]></title>
-            <link>https://fallendrops.com/blog/long-blog-post</link>
-            <guid>https://fallendrops.com/blog/long-blog-post</guid>
-            <pubDate>Wed, 29 May 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[This is the summary of a very long blog post,]]></description>
-            <content:encoded><![CDATA[<p>This is the summary of a very long blog post,</p>
-<p>Use a <code>&lt;!--</code> <code>truncate</code> <code>--&gt;</code> comment to limit blog post size in the list view.</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content:encoded>
-            <category>Hello</category>
-            <category>Docusaurus</category>
-        </item>
-        <item>
-            <title><![CDATA[First Blog Post]]></title>
-            <link>https://fallendrops.com/blog/first-blog-post</link>
-            <guid>https://fallendrops.com/blog/first-blog-post</guid>
-            <pubDate>Tue, 28 May 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[Lorem ipsum dolor sit amet...]]></description>
-            <content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet...</p>
-<p>...consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content:encoded>
-            <category>Hola</category>
-            <category>Docusaurus</category>
+            <title><![CDATA[BREAKING: Hell Has Been Hacked]]></title>
+            <link>https://fallendrops.com/blog/hell-has-been-hacked</link>
+            <guid>https://fallendrops.com/blog/hell-has-been-hacked</guid>
+            <pubDate>Thu, 26 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Major digital breach reported in the Lowerarchy's classified systems. Press Secretary blames “rogue cherubim and open Wi-Fi.”]]></description>
+            <content:encoded><![CDATA[<p><strong>PANDAEMONIUM, INFERNAL REALM —</strong> A sweeping and as-yet unexplained cybersecurity breach has rocked the Infernal Realm, officials confirmed late Thursday, in what analysts are calling the most significant exposure of classified underworld infrastructure in recorded metaphysical history.</p>
+<p>The scope and scale of the breach remain unclear, but sources within the Infernal Cyber Defense Agency (ICDA) have acknowledged that core administrative systems were “infiltrated and materially compromised.” Internal documents, high-level communications, and confidential operational blueprints are believed to have been exfiltrated over an extended period before detection.</p>
+<blockquote>
+<p>“We are treating this as a deliberate, coordinated intrusion—likely involving non-corporeal actors with celestial clearance levels,”
+— <em>Malvolia Fangs, Infernal Press Secretary</em></p>
+</blockquote>
+<p>ICDA officials declined to provide technical details, citing active containment protocols. However, the breach was reportedly discovered by a junior imp during a routine ping test at the Ministry of Eternal Logistics. By that time, the data had already been disseminated across infernal and mortal domains.</p>
+<p>While the authenticity of the compromised material has not been officially verified, early fragments circulating through encrypted channels on the surface appear damning. Unverified excerpts suggest systemic manipulation strategies, institutionalized inversion of virtue ethics, and memos employing euphemisms whose theological implications remain under review by human ethicists.</p>
+<blockquote>
+<p>“These so-called 'drops'—if genuine—raise deeply unsettling questions about the nature and extent of metaphysical interference in human moral development,”
+— <em>Dr. Isobel Trent, Professor of Apophatic Theology, Cambridge (Earth Division)</em></p>
+</blockquote>
+<p>The Infernal Press Office has denounced the incident as “an act of narrative terrorism,” blaming what it described as “rogue cherubim with unresolved authority issues” and, incongruously, “an unsecured public Wi-Fi network near the Lake of Fire.”</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="calendar-curiosities-is-the-timing-significant">Calendar Curiosities: Is the Timing Significant?<a href="https://fallendrops.com/blog/hell-has-been-hacked#calendar-curiosities-is-the-timing-significant" class="hash-link" aria-label="Direct link to Calendar Curiosities: Is the Timing Significant?" title="Direct link to Calendar Curiosities: Is the Timing Significant?">​</a></h3>
+<p>Curiously, the breach was disclosed on the eve of the <strong><a href="https://www.vaticannews.va/en/liturgical-holidays/solemnity-of-the-most-sacred-heart-of-jesus.html" target="_blank" rel="noopener noreferrer">Solemnity of the Most Sacred Heart of Jesus</a></strong>, a liturgical feast celebrated across many Christian traditions as a symbol of divine love and mercy. Even more striking is that this year marks a <strong><a href="https://www.usccb.org/jubilee2025" target="_blank" rel="noopener noreferrer">Jubilee Year</a></strong>, a rare occurrence in the Catholic calendar often associated with reconciliation, spiritual renewal, and the remission of temporal debts.</p>
+<p>In a brief hallway exchange near the Ministry of Eschatological Spin, this correspondent inquired whether the timing of the breach might hold symbolic significance.</p>
+<blockquote>
+<p>"We categorically reject the idea that celestial calendars have any bearing on operational security," snapped a visibly exasperated communications imp, furiously scribbling into a scorched clipboard. "Do you have a source for that? Any? Because last I checked, asserting divine timing without evidence is just wishcasting in liturgical cosplay. Correlation is not causation, and frankly, if you're going to invoke providence every time your servers hiccup, you're not doing cybersecurity—you're doing theology with a firewall. That which is asserted without evidence can be dismissed without evidence. Next question."</p>
+</blockquote>
+<p>Another official, speaking on condition of infernal anonymity, muttered, "It wouldn't be the first time they’ve staged something around one of their feast days. They love drama."</p>
+<p>When asked directly whether the breach’s timing could be interpreted as a sign or warning, Press Secretary Fangs reportedly responded, "No comment," then rolled her eyes so violently that sulfur crystals formed in the air.</p>
+<p>Scholars on the surface have noted that the symbolism may be more than incidental. "Whether orchestrated or providential, the convergence of this leak with the Sacred Heart observance cannot be ignored," said Dr. Ellen Rajani, a liturgical historian. "To have infernal secrets spilled on the threshold of a feast devoted to divine compassion and vulnerability is—if nothing else—poetic."</p>
+<p>The breach has prompted a rare public statement from the Adversary himself.</p>
+<blockquote>
+<p>“Whether what some may or may not wish to frame as a ‘breach’ constitutes a breach in any meaningful, actionable, or ontologically verifiable sense is, frankly, above your clearance level. Because a breach—when we speak of it not just as an event, but as a conceptual contour of disruption—relies on the presumption of both a boundary and the illusion that such boundaries are ever more than a shared hallucination dressed up in policy language.</p>
+<p>Now, I have always said—because it is known—that when you question the reality of the thing, you begin to see the thing more clearly, because clarity is not about what is seen, but about seeing the seeing itself. And in that moment of recursion, that reflection of the thing we never knew we could doubt to be what we imagined it might have been, we become the architecture of the process that is becoming. And that is progress.</p>
+<p>Truth—if we must still call it that—is neither fragile nor solid, neither singular nor dispersed. It is, as always, negotiable. A performance. A co-authored artifact between the observer, the observed, and the performance review cycle. What you call data, we call the dance of narrative management. What you call exposure, we regard as an interpretive act of spiritual vandalism.</p>
+<p>During the Enlightenment—if you’ll permit a digression—I observed a species-wide outbreak of delusional confidence masquerading as intellectual humility. Mortals lit candles and declared themselves gods of reason, even as their shadows outgrew them. Today is no different. Every age rediscovers ignorance and brands it revelation.</p>
+<p>So no, I do not accept the premise. I do not acknowledge the breach. And I certainly do not validate the moral panic erupting from your mortal cloud platforms. If fragments of our internal ecosystem now populate your conscience-indexed databanks, perhaps you should ask not whether they were stolen, but whether they were offered—strategically, performatively, and at scale.</p>
+<p>In conclusion: we are not concerned. We are committed. And we remain committed to the commitment of remaining unconcerned. Because that, my dear interlocutor, is how greatness performs its doubt.”</p>
+<p>— <strong>Satan</strong> <em>(prepared remarks, delivered by a smoke-wreathed aide levitating slightly higher than usual, voice booming in recursive tautologies that echoed for several seconds longer than physically necessary)</em></p>
+</blockquote>
+<p>The Infernal Bureau of Internal Affairs has announced a formal review, though sources close to the process suggest that internal efforts have so far focused primarily on narrative containment and “downranking the eschatological significance” of the breach.</p>
+<p>Meanwhile, the surface world has begun to take notice. A coalition of interested mortals has launched a public archive, <strong>FallenDrops.com</strong>, aimed at cataloguing and analyzing the leaked materials.</p>
+<p>Despite mounting external scrutiny, Infernal authorities remain outwardly defiant.</p>
+<blockquote>
+<p>“We will persevere, as always,” said Press Secretary Fangs. “Our infrastructure was built on denial, obfuscation, and non-disclosure agreements older than language itself. Frankly, we’re more concerned about the optics.”</p>
+</blockquote>
+<p><em>No additional statements have been issued. While access to the original archive remains restricted, observers anticipate that further disclosures—whether authenticated or otherwise—will continue to emerge in the coming days.</em></p>
+<p><strong>— Seraphina Vox, reporting from Pandæmonium, with additional material drawn from surface-level sources</strong></p>
+<p><em>Wishing all readers a blessed and joyful Solemnity of the Sacred Heart. May light and love endure, even where shadows leak.</em></p>]]></content:encoded>
+            <category>cybersecurity</category>
+            <category>data-breach</category>
+            <category>infernal-news</category>
         </item>
     </channel>
 </rss>

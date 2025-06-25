@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfallendrops_com=self.webpackChunkfallendrops_com||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"BREAKING: Hell Has Been Hacked","permalink":"/blog/hell-has-been-hacked","unlisted":false,"date":"2025-06-26T00:00:00.000Z"}]}')}}]);

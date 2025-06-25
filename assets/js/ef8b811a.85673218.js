@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfallendrops_com=self.webpackChunkfallendrops_com||[]).push([[947],{6600:e=>{e.exports=JSON.parse('{"authors":[{"name":"Seraphina Vox","title":"Senior Investigative Correspondent, FallenDrops.com","page":{"permalink":"/blog/authors/seraphina-vox"},"imageURL":"/img/authors/seraphina-vox.jpg","key":"seraphina-vox","count":1}]}')}}]);
