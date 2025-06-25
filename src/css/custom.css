@@ -1,0 +1,28 @@
+:root {
+  --ifm-color-primary: #4b4b4b; /* Neutral dark gray */
+  --ifm-color-primary-dark: #3f3f3f;
+  --ifm-color-primary-darker: #353535;
+  --ifm-color-primary-darkest: #2a2a2a;
+  --ifm-color-primary-light: #5c5c5c;
+  --ifm-color-primary-lighter: #707070;
+  --ifm-color-primary-lightest: #8a8a8a;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.07);
+
+  --ifm-color-primary: #4b4b4b;      /* Main UI stays neutral */
+  --ifm-color-danger: #b22222;       /* Optional red stamp color */
+  --ifm-color-warning: #cfa500;      /* Caution tape yellow */
+
+}
+
+[data-theme='dark'] {
+  --ifm-color-primary: #bbbbbb; /* Light gray for readability */
+  --ifm-color-primary-dark: #a5a5a5;
+  --ifm-color-primary-darker: #999999;
+  --ifm-color-primary-darkest: #7f7f7f;
+  --ifm-color-primary-light: #cccccc;
+  --ifm-color-primary-lighter: #d9d9d9;
+  --ifm-color-primary-lightest: #eaeaea;
+  --docusaurus-highlighted-code-line-bg: rgba(255, 255, 255, 0.07);
+}
+
