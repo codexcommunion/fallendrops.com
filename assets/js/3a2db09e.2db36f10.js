@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkfallendrops_com=self.webpackChunkfallendrops_com||[]).push([[121],{8070:e=>{e.exports=JSON.parse('{"tags":[{"label":"cybersecurity","permalink":"/blog/tags/cybersecurity","count":1},{"label":"data-breach","permalink":"/blog/tags/data-breach","count":1},{"label":"infernal-news","permalink":"/blog/tags/infernal-news","count":1}]}')}}]);

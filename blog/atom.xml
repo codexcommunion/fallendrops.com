@@ -57,8 +57,8 @@
         <author>
             <name>Seraphina Vox</name>
         </author>
-        <category label="cybersecurity" term="cybersecurity"/>
-        <category label="data-breach" term="data-breach"/>
-        <category label="infernal-news" term="infernal-news"/>
+        <category label="Cybersecurity" term="Cybersecurity"/>
+        <category label="Data Breach" term="Data Breach"/>
+        <category label="Infernal News" term="Infernal News"/>
     </entry>
 </feed>
